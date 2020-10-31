@@ -44,6 +44,6 @@ _If you have made any changes to the code, don't forget to restart the bot by ty
 
 ## Author
 
-1.  **Discord.js Music Bot** © [iCrawl](https://github.com/iCrawl)
-2.  Authored, maintained by iCrawl. And modified by Zhycorp
-3.  This work is licensed under a <a rel="license" href="https://github.com/zhycorp/music-bot-example/blob/master/LICENSE">GNU Affero General Public License</a>.
+1.  **Discord.js Music Bot** © [juan Socola](https://github.com/Socola13)
+2.  Authored, maintained by juanSocola
+3.  This work is licensed under a <a rel="license" href="https://github.com/Socola13">GNU Affero General Public License</a>.
